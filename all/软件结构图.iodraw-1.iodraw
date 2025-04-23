@@ -16,7 +16,7 @@
         <mxCell id="LNJMN58NUFbyhYNKTDfq-2" value="操作指令" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LNJMN58NUFbyhYNKTDfq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LNJMN58NUFbyhYNKTDfq-3" value="事务接受" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LNJMN58NUFbyhYNKTDfq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
