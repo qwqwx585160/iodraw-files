@@ -25,6 +25,9 @@
         <mxCell id="LNJMN58NUFbyhYNKTDfq-3" value="事务接收" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ju-_EK3MzoKEGFEK8LxP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LNJMN58NUFbyhYNKTDfq-4" target="LNJMN58NUFbyhYNKTDfq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LNJMN58NUFbyhYNKTDfq-4" value="存款处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="390" width="120" height="30" as="geometry" />
         </mxCell>
