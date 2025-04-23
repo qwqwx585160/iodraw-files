@@ -101,8 +101,8 @@
         <mxCell id="Ju-_EK3MzoKEGFEK8LxP-18" value="利率查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="558" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ju-_EK3MzoKEGFEK8LxP-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="458" width="50" height="30" as="geometry" />
+        <mxCell id="Ju-_EK3MzoKEGFEK8LxP-19" value="验证结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="458" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
