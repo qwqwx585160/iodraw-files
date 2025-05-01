@@ -1,0 +1,60 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="HXWEezLH0iXnyZnHeACc">
+    <mxGraphModel dx="532" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="crvfu9pEEJLELz2cipWO-1" value="读者" style="ellipse;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="crvfu9pEEJLELz2cipWO-2" target="crvfu9pEEJLELz2cipWO-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="200" />
+              <mxPoint x="87" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-2" value="图书管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="132.5" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-3" value="管理员" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="127.5" width="90" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="crvfu9pEEJLELz2cipWO-1" target="crvfu9pEEJLELz2cipWO-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="crvfu9pEEJLELz2cipWO-2" target="crvfu9pEEJLELz2cipWO-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.624;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="crvfu9pEEJLELz2cipWO-3" target="crvfu9pEEJLELz2cipWO-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="200" />
+              <mxPoint x="389" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-10" value="【借书/还书/查询】请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;【借书/还书/查询】结果&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="210" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-13" value="罚款单/统计表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="485" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-14" value="查询请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-16" value="读者" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="480" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="crvfu9pEEJLELz2cipWO-20" value="借书处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="690" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
